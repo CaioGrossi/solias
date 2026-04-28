@@ -1,5 +1,7 @@
 # solias
 
+<video src="media/video.mp4" controls></video>
+
 Personal CLI command launcher. Run `solias`, browse a table of registered commands, pick one with arrow keys, fill in any placeholders, and it runs in your shell. Build with Claude Code Opus 4.6
 
 ## Install
