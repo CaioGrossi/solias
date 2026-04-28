@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/52e9b9a0-4335-4cde-a34a-a631e48dfcac
 
 
 
-Personal CLI command launcher. Run `solias`, browse a table of registered commands, pick one with arrow keys, fill in any placeholders, and it runs in your shell. Build with Claude Code Opus 4.6
+Personal CLI command launcher. Run `solias`, browse a table of registered commands, pick one with arrow keys, fill in any placeholders, and it runs in your shell. Built with Claude Code Opus 4.6
 
 ## Install
 
