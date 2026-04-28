@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x /Users/caio.grossi/Documents/solias/solias.py)",
+      "Bash(.venv/bin/python -c \"import ast; ast.parse\\(open\\('solias.py'\\).read\\(\\)\\); print\\('syntax ok'\\)\")",
+      "Bash(.venv/bin/python *)"
+    ]
+  }
+}
